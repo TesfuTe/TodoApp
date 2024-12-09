@@ -26,3 +26,12 @@ A simple and intuitive TODO application designed to help users manage their task
 2. Start the application:
    ```bash
    uvicorn main:app --reload
+
+## Technologies Used
+   . Frontend: React/HTML/CSS (or any framework used)
+   . Backend: Node.js/Express (if applicable)
+   . Database: MongoDB/SQLite (if applicable)
+## Usage
+   - Open the application in a browser.
+   - Use the input field to add tasks.
+   - Manage tasks with provided controls (edit, delete, mark complete).
