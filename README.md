@@ -18,3 +18,7 @@ A simple and intuitive TODO application designed to help users manage their task
    ```bash
    git clone https://github.com/your-username/todo-app.git
    cd todo-app
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
