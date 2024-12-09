@@ -16,9 +16,13 @@ A simple and intuitive TODO application designed to help users manage their task
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
-   cd todo-app
+   git clone https://github.com/TesfuTe/TodoApp.git
+   cd TodoApp
 
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+2. Start the application:
+   ```bash
+   uvicorn main:app --reload
