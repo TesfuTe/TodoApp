@@ -35,3 +35,17 @@ A simple and intuitive TODO application designed to help users manage their task
    - Open the application in a browser.
    - Use the input field to add tasks.
    - Manage tasks with provided controls (edit, delete, mark complete).
+
+## Contributing
+   1. Fork the project.
+   2. Create a feature branch
+      ```bash
+      git checkout -b feature-name
+   3. Commit changes:
+      ```bash
+      git commit -m "Description of feature"
+   4. Push changes:
+      ```bash
+      git push origin feature-name
+   5. Submit a pull request.
+## License
