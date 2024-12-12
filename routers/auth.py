@@ -1,5 +1,5 @@
 from typing import Annotated
-from fastapi import Depends, FastAPI, APIRouter, Path, HTTPException
+from fastapi import Depends, APIRouter, Path, HTTPException
 from fastapi.security import OAuth2PasswordRequestForm, OAuth2PasswordBearer
 from starlette import status
 from pydantic import BaseModel
