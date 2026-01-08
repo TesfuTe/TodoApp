@@ -48,4 +48,3 @@ A simple and intuitive TODO application designed to help users manage their task
       ```bash
       git push origin feature-name
    5. Submit a pull request.
-## License
